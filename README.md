@@ -20,7 +20,6 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,6 +35,7 @@ A Quote/Todo App that allows you to create quotes or reminders.
 - Learned basic features of Vue
 - Developement workflow with Webpack
 - Commmunication between components
+- Vue CLI
 
 ### Built With
 
@@ -43,10 +43,6 @@ A Quote/Todo App that allows you to create quotes or reminders.
 
 - [Vue.js](https://vuejs.org/)
 - [BootstrapVue](https://bootstrap-vue.org/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 ## How To Use
 
