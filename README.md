@@ -43,13 +43,10 @@ A Quote/Todo App that allows you to create quotes or reminders.
 
 - [Vue.js](https://vuejs.org/)
 - [BootstrapVue](https://bootstrap-vue.org/)
-- [Webpack](https://webpack.js.org/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-
 
 ## How To Use
 
